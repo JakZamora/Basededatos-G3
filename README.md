@@ -1,7 +1,7 @@
 # Base de datos Para aplicaciones
 
 
-!['Imagen Base de Datos'](./img/bd.jpeg)
+!['Imagen Base de Datos'](https://concepto.de/wp-content/uploads/2018/04/base-de-datos-min-e1523470739502.jpg)
 
 -----------
 
